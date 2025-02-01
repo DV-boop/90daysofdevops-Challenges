@@ -1,6 +1,14 @@
 # 90daysofdevops-challenges
 "My DevOps Networking Challenge for 90 Days of DevOps."
-# DevOps Challenge: Week 1 — Networking Challenge
+
+## **About Me**  
+
+I’m passionate about learning DevOps and building a career in cloud technologies. Connect with me on:  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dangrolu-harsh-0a5920220/)  
+- 💻 [GitHub](https://github.com/DV-boop) 
+
+
+# Week 1 — Networking Challenge
 
 Welcome to **Week 1 of the 90 Days of DevOps - 2025 Edition!** This week focuses on mastering networking concepts, protocols, and practical hands-on tasks. Below are the deliverables and guides for this week’s challenge.
 
@@ -142,3 +150,4 @@ dig google.com
 
 This structure and documentation should guide you in successfully completing Week 1 and keeping your repository organized and informative. Happy Networking! 🚀
 
+Thank you for visiting! 🚀
